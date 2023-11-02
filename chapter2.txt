@@ -1,1 +1,1 @@
-This is the chapter 2. This is on main branch.This is the chapter 2. This is on new branch.
+This is the chapter 2. This is on main branch.
